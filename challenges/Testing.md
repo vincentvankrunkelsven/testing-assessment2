@@ -1,7 +1,7 @@
 ---
 title: Test
 
---- type:OutputChallenge
+--- type:OutputChallenge key:10b0os65v01h1f9snj7isf0qkt9
 ## Element-wise matrix operations
 
 *** =code
